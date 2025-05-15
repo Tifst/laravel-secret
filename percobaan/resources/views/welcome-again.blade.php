@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Welcome to Laravel!</h1>
-    <p>Welcome again from Digital Center</p>
+    <p>Welcome again from Toilet Digital Center</p>
 </body>
 </html>
